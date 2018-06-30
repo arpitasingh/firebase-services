@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AcroFeed</string>
+    <string name="registration_success">User data successfully updated, please login!</string>
+    <string name="registration_failure">Database error</string>
+    <string name="menu_logout_label">Log Out</string>
+    <string name="my_profile">My Profile</string>
+    <string name="about_us">About Us</string>
+</resources>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "922671954745",
+    "firebase_url": "https://acrofeedapplication.firebaseio.com",
+    "project_id": "acrofeedapplication",
+    "storage_bucket": "acrofeedapplication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922671954745:android:517497682f38df36",
+        "android_client_info": {
+          "package_name": "com.feed.acro.acrofeedapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922671954745-oeq4b0ef8lrbt7jch8vkv2053krn80fn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.feed.acro.acrofeedapplication",
+            "certificate_hash": "2bf5dbda424a2b52c4dcceebd676753343a753ea"
+          }
+        },
+        {
+          "client_id": "922671954745-0eansp6glsveqhs3opp0dj4hell3dsmn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx01qRuuoTQVYPKHJP_W6yGbbJPaJjPVQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922671954745-0eansp6glsveqhs3opp0dj4hell3dsmn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
